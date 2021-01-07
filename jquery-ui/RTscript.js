@@ -86,4 +86,468 @@ document.getElementById("shape").onclick = function(){
 
 }
 
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+document.getElementById("shape").onclick = function(){
+
+    document.getElementById("shape").style.display = "none";
+
+    var end = new Date().getTime();
+
+    var time = (end - start) / 1000;
+
+    document.getElementById("tt").innerHTML = time + "s";
+
+    scores.push(time);
+
+    document.getElementById("score").style.display = "block";
+    document.getElementById("place").innerHTML = document.getElementById("name").value;
+
+    document.getElementById("listv").innerHTML = "";
+
+    var tstring = "<ol>";
+    scores.sort();
+
+    var i = 0;
+
+    while(i < scores.length && i < 5) {
+        tstring = tstring + "<li>" + scores[i] + "</li>";
+        i++;
+    }
+
+    document.getElementById("listv").innerHTML = document.getElementById("listv").innerHTML + tstring + "<\ol>";
+
+    appear();
+
+}
+
+
+
 
